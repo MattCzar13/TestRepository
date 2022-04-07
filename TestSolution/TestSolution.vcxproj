@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="TestSolution.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PiersonsHeader.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
